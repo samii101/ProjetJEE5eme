@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Absence-Service/Absence-Service.iml" filepath="$PROJECT_DIR$/Absence-Service/Absence-Service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Eureka-Discovery/Eureka-Discovery.iml" filepath="$PROJECT_DIR$/Eureka-Discovery/Eureka-Discovery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Gateway-Service/Gateway-Service.iml" filepath="$PROJECT_DIR$/Gateway-Service/Gateway-Service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SchoolAttendance.iml" filepath="$PROJECT_DIR$/SchoolAttendance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Student-Services/Student-Services.iml" filepath="$PROJECT_DIR$/Student-Services/Student-Services.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Subject-Service/Subject-Service.iml" filepath="$PROJECT_DIR$/Subject-Service/Subject-Service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Teacher-Service/Teacher-Service.iml" filepath="$PROJECT_DIR$/Teacher-Service/Teacher-Service.iml" />
+    </modules>
+  </component>
+</project>
